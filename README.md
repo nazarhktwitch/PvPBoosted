@@ -1,4 +1,6 @@
-# PvPBoosted
-This is official issues repository for modpack PvPBoosted
+# PvPBoosted  
+Welcome to the official issues repository for the **PvPBoosted** modpack!  
 
-You can get it [here(https://modrinth.com/modpack/pvpboosted])
+Download the modpack here: [PvPBoosted on Modrinth](https://modrinth.com/modpack/pvpboosted).  
+
+Report bugs, suggest features, or contribute to making PvPBoosted even better!
