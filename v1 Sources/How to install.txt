@@ -1,0 +1,26 @@
+How to Install PvPBoosted Modpack
+
+Follow these simple steps to install the PvPBoosted modpack and start playing:
+
+    Make sure you have a Minecraft Launcher
+        It's recommended to use MultiMC, Prism Launcher, or any modern launcher that supports Fabric.
+
+    Install Fabric Loader
+        Download the latest version of Fabric Loader for Minecraft 1.16.5.
+        Follow the instructions on the website to install it.
+
+    Download PvPBoosted
+        Go to the PvPBoosted Modpack page on Modrinth and download the latest version.
+        You will get a .zip file.
+
+    Set up the modpack in your launcher
+        Open your launcher (for example, MultiMC).
+        Create a new "instance" of Minecraft version 1.16.5.
+        Install Fabric Loader for that instance.
+        Extract the contents of the downloaded .zip file into the .minecraft folder of your instance.
+
+    Ensure the mods and resource packs are installed
+        Check the mods folder to make sure all the required mods are in place.
+        Verify the resource packs are activated in the Minecraft settings for the best experience.
+
+Now you are ready to enjoy the PvPBoosted modpack with enhanced performance and PvP features!
