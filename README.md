@@ -1,5 +1,5 @@
 # PvPBoosted  
-Welcome to the official issues tracker for the **PvPBoosted** modpack!  
+Welcome to the official issues tracker and source for the **PvPBoosted** modpack!  
 
 Download the modpack here: [PvPBoosted on Modrinth](https://modrinth.com/project/pvpboosted/).  
 
