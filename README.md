@@ -1,6 +1,6 @@
-# PvPBoosted  
+# ![PvPBoosted Monorepo Cover](/icon.png)
 
-![icon](https://github.com/nazarhktwitch/PvPBoosted/blob/main/icon.png)
+# PvPBoosted
 
 Welcome to the official issues tracker for the **PvPBoosted** modpack!  
 
